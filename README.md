@@ -15,7 +15,7 @@ Installation
 
 To install the Fetch Coding Exercise App on your Android device:
 
-    Download the APK file from the releases page.
+    Download the APK file and source code from the releases page.
     Enable installation from unknown sources in your device settings.
     Open the APK file to begin the installation process.
     Follow the on-screen instructions to complete the installation.
